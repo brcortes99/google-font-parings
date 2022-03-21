@@ -61,7 +61,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/1337385/pexels-photo-1337385.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -72,15 +72,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://images.pexels.com/photos/6249454/pexels-photo-6249454.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/11289200/pexels-photo-11289200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/11235613/pexels-photo-11235613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/5044497/pexels-photo-5044497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
 }
 
 .with-background {
@@ -139,15 +139,15 @@ article {
 }
 
 .first-article-container {
-  background-color: #e2b400;
+  background-color: #e2b450;
 }
 
 .second-article-container {
-  background-color: #a66746;
+  background-color: #a22746;
 }
 
 .third-article-container {
-  background-color: #a69991;
+  background-color: #b34991;
 }
 
 footer {
@@ -155,7 +155,3 @@ footer {
   padding: 20px 0;
   background-color: rgb(0, 0, 0, 0.3);
 }
-
- 
-
-
